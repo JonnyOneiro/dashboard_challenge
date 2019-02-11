@@ -26,11 +26,8 @@ Charts Section
     ---------------
         Bars need a radius (round ends)
 
-        Remove vertical gridlines
-
-        Horizontal gridlines should be dotted
-
         Fix Y-axis Legend (ie: $0k, $10k, $20K,...) 
+        
 
 
 
@@ -40,3 +37,5 @@ Responsiveness
     Looks good on all screen sizes, however.. . 
 
     Customize button floats behind divs on screen size 576px - 1199px
+
+    hide Side Nav and contents, display hamburger at 1199px and less  

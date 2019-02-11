@@ -1,0 +1,15 @@
+.alert {
+    padding: 0;
+    margin-bottom: 0;
+    text-align: center;
+    width: 60px;
+}
+
+.nav-bottom {
+    position: relative;
+    bottom: 10vh;
+}
+
+button {
+    align-self: auto;
+}
