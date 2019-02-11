@@ -1,8 +1,12 @@
 .alert {
-    padding: 0;
+    padding: 2px 0;
     margin-bottom: 0;
     text-align: center;
     width: 60px;
+    color: #00d97f;
+    background-color: #cbf7e5;
+    border: none;
+
 }
 
 .nav-bottom {

@@ -6,7 +6,7 @@ General
 ----------
     font and font size not exactly the same as the ones in the example image
 
-    Font Awesome Icons in example are outlined. I could not all the outlined icons used in the example, used the solid icons, so they all matched for a consistent styling. (found the problem, was using an older version of FA CDN link)
+    Font Awesome Icons in example are outlined. I could not find all the outlined icons used in the example, used the solid icons, so they all matched for a consistent styling. (found the problem, was using an older version of FA CDN link)
 
 
 Side Nav

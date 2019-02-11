@@ -210,7 +210,7 @@
                     </div>
                     <!-- Devices Body -->
                     <div class="card-body">
-                        <div class="chart-pie pt-2 pb-2">
+                        <div class="chart-pie pt-1 pb-2">
                             <canvas id="devices-chart"style="height: 50%; width: 50%;"></canvas>
                         </div>
                         <!-- Remade legend -->
@@ -278,11 +278,12 @@
                 legend: {
                     display: false,
                 },
-                radius: 5,
+                barRadius: 5,
+                curvature: 1,
                 scales: {
                     xAxes: [{
+                        barRadius: .2,
                         barPercentage: 0.4,
-                        barRadius: .5,
                         display: true,
                         gridLines: {
                             borderDash: [0,1],
